@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+    align-items: center;
+}
+.indi{
+    margin-left: 5%;
+    max-height: fit-content;
+}
+.cart{
+    
+}
+#nav{
+    float: left;
+    border: none;
+}
+#line{
+    max-width: 95%;
+    padding-bottom: 3.5%;
+}
+#total{
+    text-align: right;
+}
+
+  
